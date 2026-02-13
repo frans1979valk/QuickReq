@@ -9,8 +9,6 @@ Just send requests. Get responses. Move on.
 
 ![QuickReq Screenshot](assets/screenshots/main-ui.png)
 
-![QuickReq Screenshot](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
-
 ## 🚀 Why QuickReq?
 
 Most API tools are powerful — but heavy.
